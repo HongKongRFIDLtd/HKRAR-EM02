@@ -6,17 +6,17 @@ This repository contains SDK files, Utility and Resource of HKRFID Active RFID R
 *master branch contains latest release
 *Older releases are tagged with version number, see tags
 
-##Platforms
+## Platforms
 C# .NET SDK
 
-##Docs
+## Docs
 docs folder contains general NUR related documentation
 
-##SDK & Sample
+## SDK & Sample
 SDK Library and Example code.
 
 
-##Utility
+## Utility
 Utility program for connecting and configuration.
 * EM02 Configuration Tool.exe - Network IP setting to the reader.
 * Firmware Flasher.exe - Firmware update tools
